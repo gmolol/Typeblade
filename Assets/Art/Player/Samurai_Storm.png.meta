@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: f12d2a3d35e81b6429661e35c8e0f3d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5748019751988308729
+    second: BossAction-Storm-Sheet_0
+  - first:
+      213: 6695369801342524200
+    second: BossAction-Storm-Sheet_1
+  - first:
+      213: -7858226826921139616
+    second: BossAction-Storm-Sheet_2
+  - first:
+      213: -4073187017992960302
+    second: BossAction-Storm-Sheet_3
+  - first:
+      213: -7648636488835709694
+    second: BossAction-Storm-Sheet_4
+  - first:
+      213: -4554601633539025108
+    second: BossAction-Storm-Sheet_5
+  - first:
+      213: 6508854940679108480
+    second: BossAction-Storm-Sheet_6
+  - first:
+      213: -8656791039437759269
+    second: BossAction-Storm-Sheet_7
+  - first:
+      213: 5110278316734848613
+    second: BossAction-Storm-Sheet_8
+  - first:
+      213: 1948104765791884709
+    second: BossAction-Storm-Sheet_9
+  - first:
+      213: -1624286098484122785
+    second: BossAction-Storm-Sheet_10
+  - first:
+      213: -6941308180374704178
+    second: BossAction-Storm-Sheet_11
+  - first:
+      213: -3722272511088163308
+    second: BossAction-Storm-Sheet_12
+  - first:
+      213: 2733781717716294734
+    second: BossAction-Storm-Sheet_13
+  - first:
+      213: 1103964939135263501
+    second: BossAction-Storm-Sheet_14
+  - first:
+      213: -1801660369918735250
+    second: BossAction-Storm-Sheet_15
+  - first:
+      213: -1779403619203985068
+    second: BossAction-Storm-Sheet_16
+  - first:
+      213: 2981052110020040214
+    second: BossAction-Storm-Sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa2137928115cf40800000000000000
+      internalID: 5748019751988308729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b16e85c5bbaec50800000000000000
+      internalID: 6695369801342524200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062abe8e558f1f290800000000000000
+      internalID: -7858226826921139616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d60cc0ecf12977c0800000000000000
+      internalID: -4073187017992960302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2054bda33a59ad590800000000000000
+      internalID: -7648636488835709694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 0
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c271e7312fdcac0c0800000000000000
+      internalID: -4554601633539025108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08779b94519145a50800000000000000
+      internalID: 6508854940679108480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 0
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc178f4a66ecd780800000000000000
+      internalID: -8656791039437759269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 0
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e9c5cbd0b5be640800000000000000
+      internalID: 5110278316734848613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 0
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5554686fe090b10800000000000000
+      internalID: 1948104765791884709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5baf3636606579e0800000000000000
+      internalID: -1624286098484122785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 0
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfa0409cf48baf90800000000000000
+      internalID: -6941308180374704178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 0
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41683636fd4d75cc0800000000000000
+      internalID: -3722272511088163308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 0
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cdfe1fcf750f520800000000000000
+      internalID: 2733781717716294734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 0
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03a4a95342125f00800000000000000
+      internalID: 1103964939135263501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c481d60773ff6e0800000000000000
+      internalID: -1801660369918735250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 0
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4515d4506d94e47e0800000000000000
+      internalID: -1779403619203985068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-Storm-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 0
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165caa8913de5920800000000000000
+      internalID: 2981052110020040214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossAction-Storm-Sheet_0: 5748019751988308729
+      BossAction-Storm-Sheet_1: 6695369801342524200
+      BossAction-Storm-Sheet_10: -1624286098484122785
+      BossAction-Storm-Sheet_11: -6941308180374704178
+      BossAction-Storm-Sheet_12: -3722272511088163308
+      BossAction-Storm-Sheet_13: 2733781717716294734
+      BossAction-Storm-Sheet_14: 1103964939135263501
+      BossAction-Storm-Sheet_15: -1801660369918735250
+      BossAction-Storm-Sheet_16: -1779403619203985068
+      BossAction-Storm-Sheet_17: 2981052110020040214
+      BossAction-Storm-Sheet_2: -7858226826921139616
+      BossAction-Storm-Sheet_3: -4073187017992960302
+      BossAction-Storm-Sheet_4: -7648636488835709694
+      BossAction-Storm-Sheet_5: -4554601633539025108
+      BossAction-Storm-Sheet_6: 6508854940679108480
+      BossAction-Storm-Sheet_7: -8656791039437759269
+      BossAction-Storm-Sheet_8: 5110278316734848613
+      BossAction-Storm-Sheet_9: 1948104765791884709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 125e6b5bf01b4ee49a189efa575aee2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2269812618126967932
+    second: BossAction-WindSlash-Sheet_0
+  - first:
+      213: -7348628857637516269
+    second: BossAction-WindSlash-Sheet_1
+  - first:
+      213: -3049165480448628982
+    second: BossAction-WindSlash-Sheet_2
+  - first:
+      213: 4993072049048406774
+    second: BossAction-WindSlash-Sheet_3
+  - first:
+      213: 7181597776055191169
+    second: BossAction-WindSlash-Sheet_4
+  - first:
+      213: -6993805183153910402
+    second: BossAction-WindSlash-Sheet_5
+  - first:
+      213: 384560869413680623
+    second: BossAction-WindSlash-Sheet_6
+  - first:
+      213: -672006821751622207
+    second: BossAction-WindSlash-Sheet_7
+  - first:
+      213: 6927547793111815579
+    second: BossAction-WindSlash-Sheet_8
+  - first:
+      213: 5678774271012865955
+    second: BossAction-WindSlash-Sheet_9
+  - first:
+      213: -7452310734381205057
+    second: BossAction-WindSlash-Sheet_10
+  - first:
+      213: -922696095020923727
+    second: BossAction-WindSlash-Sheet_11
+  - first:
+      213: 615374287297339782
+    second: BossAction-WindSlash-Sheet_12
+  - first:
+      213: -5439002848847345402
+    second: BossAction-WindSlash-Sheet_13
+  - first:
+      213: 1013647907717256287
+    second: BossAction-WindSlash-Sheet_14
+  - first:
+      213: 6631606037175286288
+    second: BossAction-WindSlash-Sheet_15
+  - first:
+      213: 3114037029540316423
+    second: BossAction-WindSlash-Sheet_16
+  - first:
+      213: -3539915122012436909
+    second: BossAction-WindSlash-Sheet_17
+  - first:
+      213: 319785799252341711
+    second: BossAction-WindSlash-Sheet_18
+  - first:
+      213: -5124559397568383707
+    second: BossAction-WindSlash-Sheet_19
+  - first:
+      213: -6836550655236597162
+    second: BossAction-WindSlash-Sheet_20
+  - first:
+      213: -4374085836308283218
+    second: BossAction-WindSlash-Sheet_21
+  - first:
+      213: -7004161692135610512
+    second: BossAction-WindSlash-Sheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74482adc8eff7f10800000000000000
+      internalID: 2269812618126967932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cc45a1dfc640a90800000000000000
+      internalID: -7348628857637516269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07e97496203fa5d0800000000000000
+      internalID: -3049165480448628982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa467df294fa4540800000000000000
+      internalID: 4993072049048406774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1864189a0292aa360800000000000000
+      internalID: 7181597776055191169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d43dd9d3301fe90800000000000000
+      internalID: -6993805183153910402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5faefb21c365500800000000000000
+      internalID: 384560869413680623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5fad62b5d8ca6f0800000000000000
+      internalID: -672006821751622207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9598fc9308932060800000000000000
+      internalID: 6927547793111815579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 0
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7895fac1f0fce40800000000000000
+      internalID: 5678774271012865955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 0
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9b0610fd2149890800000000000000
+      internalID: -7452310734381205057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 0
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b443ac4acce133f0800000000000000
+      internalID: -922696095020923727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 0
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681644667af3a8800800000000000000
+      internalID: 615374287297339782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 0
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609cd1ed9b7c484b0800000000000000
+      internalID: -5439002848847345402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f541ecac663311e00800000000000000
+      internalID: 1013647907717256287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 0
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a3b281e82380c50800000000000000
+      internalID: 6631606037175286288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 0
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c923fd28473b20800000000000000
+      internalID: 3114037029540316423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3564a69a3f1bfdec0800000000000000
+      internalID: -3539915122012436909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 0
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc376a87d7b107400800000000000000
+      internalID: 319785799252341711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 0
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525fb850168e1e8b0800000000000000
+      internalID: -5124559397568383707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a98a19661bf11a0800000000000000
+      internalID: -6836550655236597162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 0
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea007c55b102c43c0800000000000000
+      internalID: -4374085836308283218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossAction-WindSlash-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 0
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077abd6fc083cce90800000000000000
+      internalID: -7004161692135610512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossAction-WindSlash-Sheet_0: 2269812618126967932
+      BossAction-WindSlash-Sheet_1: -7348628857637516269
+      BossAction-WindSlash-Sheet_10: -7452310734381205057
+      BossAction-WindSlash-Sheet_11: -922696095020923727
+      BossAction-WindSlash-Sheet_12: 615374287297339782
+      BossAction-WindSlash-Sheet_13: -5439002848847345402
+      BossAction-WindSlash-Sheet_14: 1013647907717256287
+      BossAction-WindSlash-Sheet_15: 6631606037175286288
+      BossAction-WindSlash-Sheet_16: 3114037029540316423
+      BossAction-WindSlash-Sheet_17: -3539915122012436909
+      BossAction-WindSlash-Sheet_18: 319785799252341711
+      BossAction-WindSlash-Sheet_19: -5124559397568383707
+      BossAction-WindSlash-Sheet_2: -3049165480448628982
+      BossAction-WindSlash-Sheet_20: -6836550655236597162
+      BossAction-WindSlash-Sheet_21: -4374085836308283218
+      BossAction-WindSlash-Sheet_22: -7004161692135610512
+      BossAction-WindSlash-Sheet_3: 4993072049048406774
+      BossAction-WindSlash-Sheet_4: 7181597776055191169
+      BossAction-WindSlash-Sheet_5: -6993805183153910402
+      BossAction-WindSlash-Sheet_6: 384560869413680623
+      BossAction-WindSlash-Sheet_7: -672006821751622207
+      BossAction-WindSlash-Sheet_8: 6927547793111815579
+      BossAction-WindSlash-Sheet_9: 5678774271012865955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

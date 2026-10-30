@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 35462865826f42c48b666649009cf0b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2045240684502665088
+    second: BossDeath-Sheet_0
+  - first:
+      213: 2894248964348128459
+    second: BossDeath-Sheet_1
+  - first:
+      213: -8066879787238874244
+    second: BossDeath-Sheet_2
+  - first:
+      213: 1934865063046831037
+    second: BossDeath-Sheet_3
+  - first:
+      213: 4645390934865247882
+    second: BossDeath-Sheet_4
+  - first:
+      213: 5744122226365846262
+    second: BossDeath-Sheet_5
+  - first:
+      213: 3353264831476341265
+    second: BossDeath-Sheet_6
+  - first:
+      213: 3758707177663261917
+    second: BossDeath-Sheet_7
+  - first:
+      213: 3071923992386878003
+    second: BossDeath-Sheet_8
+  - first:
+      213: 1640181706707992676
+    second: BossDeath-Sheet_9
+  - first:
+      213: 5336418105949096133
+    second: BossDeath-Sheet_10
+  - first:
+      213: -936790086716931498
+    second: BossDeath-Sheet_11
+  - first:
+      213: 7947541771136607508
+    second: BossDeath-Sheet_12
+  - first:
+      213: -5368267127966301906
+    second: BossDeath-Sheet_13
+  - first:
+      213: -117372272137778566
+    second: BossDeath-Sheet_14
+  - first:
+      213: 1978162577048259405
+    second: BossDeath-Sheet_15
+  - first:
+      213: -4790257891735558161
+    second: BossDeath-Sheet_16
+  - first:
+      213: 2434219419308702175
+    second: BossDeath-Sheet_17
+  - first:
+      213: 6198641463783543626
+    second: BossDeath-Sheet_18
+  - first:
+      213: 5017803540930176605
+    second: BossDeath-Sheet_19
+  - first:
+      213: 2746063443269419343
+    second: BossDeath-Sheet_20
+  - first:
+      213: -5405871542370814939
+    second: BossDeath-Sheet_21
+  - first:
+      213: -8859916102068170771
+    second: BossDeath-Sheet_22
+  - first:
+      213: -7297744851579473132
+    second: BossDeath-Sheet_23
+  - first:
+      213: -6455359554367039530
+    second: BossDeath-Sheet_24
+  - first:
+      213: 9192788640434863437
+    second: BossDeath-Sheet_25
+  - first:
+      213: -5886609253997828562
+    second: BossDeath-Sheet_26
+  - first:
+      213: 906820099081647147
+    second: BossDeath-Sheet_27
+  - first:
+      213: -774136300913022033
+    second: BossDeath-Sheet_28
+  - first:
+      213: -1335624869951810597
+    second: BossDeath-Sheet_29
+  - first:
+      213: -8185572093545626825
+    second: BossDeath-Sheet_30
+  - first:
+      213: 6119458191517019545
+    second: BossDeath-Sheet_31
+  - first:
+      213: 5266079070852157307
+    second: BossDeath-Sheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Samurai_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0ac6f379dbdb4dba3a0665360388c
+      internalID: -230129941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a784b7b9d9895ac49a040fb66a957375
+      internalID: 2009667812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddcaf6197ab1c0439810d21ce599953
+      internalID: 2038895989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5752e1f41bfa7c46b3439ff28232ae1
+      internalID: -1941135247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cbc08f22a89fe4d8c6f4c4071b1ec6
+      internalID: -2047149036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_5
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a64ee2b6c187347b9824cb6a182f02
+      internalID: 1383975222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_6
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f412fb3db2c548040a5b2e8c236ccb20
+      internalID: 1548450362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca3be9b48bdbd348a4836c09c218e6a
+      internalID: -246838043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f98c80a2978241a4b3483d01da736
+      internalID: 449414167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_9
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92939d6bdca1c7e4d8c2cf0ba5de649f
+      internalID: 961181867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_10
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0dadbb37c52a04fa358549c1db2220
+      internalID: -1588663526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_11
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3884c9b3e153f564cb9b4162942b70af
+      internalID: -211283508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_12
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89278242ea1de04408de275750230c3c
+      internalID: -1600608765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_13
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d463167fe4e67946a5ef7384e5fbd05
+      internalID: -33477404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_14
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e707c76be269ed748b63b826d6a4e9d8
+      internalID: -49034051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_15
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 0
+        width: 203
+        height: 96
+      alignment: 9
+      pivot: {x: 0.38423645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43847ff92348f844dae6476aa580398a
+      internalID: -687150771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1994
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d77b2d4ed07814d8fc6d63fc94ce0e
+      internalID: -62099264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Death_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3246
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27a9bab79b35548ad74c13fc134fad
+      internalID: 2034842162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb6220a518072c14fa7bb3e5201f3c9c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":203.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Samurai_Death_0: -230129941
+      Samurai_Death_1: 2009667812
+      Samurai_Death_10: -1588663526
+      Samurai_Death_11: -211283508
+      Samurai_Death_12: -1600608765
+      Samurai_Death_13: -33477404
+      Samurai_Death_14: -49034051
+      Samurai_Death_15: -687150771
+      Samurai_Death_16: -62099264
+      Samurai_Death_17: 2034842162
+      Samurai_Death_2: 2038895989
+      Samurai_Death_3: -1941135247
+      Samurai_Death_4: -2047149036
+      Samurai_Death_5: 1383975222
+      Samurai_Death_6: 1548450362
+      Samurai_Death_7: -246838043
+      Samurai_Death_8: 449414167
+      Samurai_Death_9: 961181867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

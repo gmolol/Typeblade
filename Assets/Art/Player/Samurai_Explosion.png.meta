@@ -1,0 +1,873 @@
+fileFormatVersion: 2
+guid: dd28ee4be5f2d98489cbb6227af8b766
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3702263145620513035
+    second: BossAction-Explosion-Sheet_0
+  - first:
+      213: -8447626845792191170
+    second: BossAction-Explosion-Sheet_1
+  - first:
+      213: 6094744490180189947
+    second: BossAction-Explosion-Sheet_2
+  - first:
+      213: -8086782900966393293
+    second: BossAction-Explosion-Sheet_3
+  - first:
+      213: 5428564888265088989
+    second: BossAction-Explosion-Sheet_4
+  - first:
+      213: 2632680861584065528
+    second: BossAction-Explosion-Sheet_5
+  - first:
+      213: -3473830352336079759
+    second: BossAction-Explosion-Sheet_6
+  - first:
+      213: 9037827381218748980
+    second: BossAction-Explosion-Sheet_7
+  - first:
+      213: 7351693187012160966
+    second: BossAction-Explosion-Sheet_8
+  - first:
+      213: 5494016649913937463
+    second: BossAction-Explosion-Sheet_9
+  - first:
+      213: 1971468460111964580
+    second: BossAction-Explosion-Sheet_10
+  - first:
+      213: -8943383453622450083
+    second: BossAction-Explosion-Sheet_11
+  - first:
+      213: 1741098064963215529
+    second: BossAction-Explosion-Sheet_12
+  - first:
+      213: 2718291962313216056
+    second: BossAction-Explosion-Sheet_13
+  - first:
+      213: -5219659212816173651
+    second: BossAction-Explosion-Sheet_14
+  - first:
+      213: -7361280940964778436
+    second: BossAction-Explosion-Sheet_15
+  - first:
+      213: -6427408875503938524
+    second: BossAction-Explosion-Sheet_16
+  - first:
+      213: -4521885746388572211
+    second: BossAction-Explosion-Sheet_17
+  - first:
+      213: 7239748554668902596
+    second: BossAction-Explosion-Sheet_18
+  - first:
+      213: -1147775025082869208
+    second: BossAction-Explosion-Sheet_19
+  - first:
+      213: 4290042082509596644
+    second: BossAction-Explosion-Sheet_20
+  - first:
+      213: -7849105955457806502
+    second: BossAction-Explosion-Sheet_21
+  - first:
+      213: -1308084027058383075
+    second: BossAction-Explosion-Sheet_22
+  - first:
+      213: -2734849043695213245
+    second: BossAction-Explosion-Sheet_23
+  - first:
+      213: -9123513830339802261
+    second: BossAction-Explosion-Sheet_24
+  - first:
+      213: -5556318265558009616
+    second: BossAction-Explosion-Sheet_25
+  - first:
+      213: 5009154715782262788
+    second: BossAction-Explosion-Sheet_26
+  - first:
+      213: 7285200082063117043
+    second: BossAction-Explosion-Sheet_27
+  - first:
+      213: -1112352793627104990
+    second: BossAction-Explosion-Sheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Samurai_Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9b5b2bb8c830744ba84460ab2bbf13
+      internalID: -1885391330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b06663c7a6d8fa47b25a9757aed1a73
+      internalID: -1854234101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0febb1d560a57ed4c8b32180e15fab57
+      internalID: -1466228588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c148058c9ef75b641a1f0c3452bd8afd
+      internalID: 99792197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cffced3426d68d4bba09b5ea5c026b8
+      internalID: 672595656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d7908015eafdc4ea6a6b4e9de5ac19
+      internalID: 2122749033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d78cf402fd57b148b2610ec431a4e87
+      internalID: -959585337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb79184e8dd71046bdbad1387a60179
+      internalID: -1808802167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e165abe5d2b4b26418d7f589eb176d5c
+      internalID: -1298013336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e96b115fa7afc4aa71f5c0193c7f4a
+      internalID: -1056606250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38024db719f8f9c46b24697c92209eae
+      internalID: 1978846401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e7d0c05f3555d4486d99b7dc3145ec
+      internalID: 1811317787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd21eddf4cefc448bd7f8a56cffd20
+      internalID: 1264001506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af512c84a3afdd408b15d8c5292441c
+      internalID: 879391356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba1817d4fd00c4d8a78a63eb87bbda
+      internalID: 464331308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a77fd004934949bfa04b930f18067
+      internalID: -1056852121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060d8998eb926ef4cb1598a3b48207a8
+      internalID: 961610873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ad12938e73ac4c97877f6b04faf11
+      internalID: -1152031409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0df165015db88b469bc0a1921a3f4cf
+      internalID: 57474306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112ba7653f63d5d4b887b0c07a927573
+      internalID: -2141619554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9c26cf29dc38a4caa4e4c3ed9a38ed
+      internalID: -917564725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_21
+      rect:
+        serializedVersion: 2
+        x: 4263
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fb32c300a04b343bf460419ae0f022
+      internalID: -1948918411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_22
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902c7303ef7c554ba6687a1e37144a1
+      internalID: 1420260590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_23
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e92279243c1de43855ba09e62789ce
+      internalID: 982986764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_24
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242cdf02b7588e3468633e00180f7805
+      internalID: 823743406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_25
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84780c4e28de784e911260dbf3e0d13
+      internalID: -1097871380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_26
+      rect:
+        serializedVersion: 2
+        x: 5278
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179147d6e0602e5478330d84fa832137
+      internalID: 2100443647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_27
+      rect:
+        serializedVersion: 2
+        x: 5481
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667b0b03198ee4146a1ba10ebd0bf19a
+      internalID: 103623626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Explosion_28
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5777004c65fd82e41b467bbc379e9391
+      internalID: 1294434609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 77d34f7dbf555ff4e80c5c9cb83d3738
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":203.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Samurai_Explosion_0: -1885391330
+      Samurai_Explosion_1: -1854234101
+      Samurai_Explosion_10: 1978846401
+      Samurai_Explosion_11: 1811317787
+      Samurai_Explosion_12: 1264001506
+      Samurai_Explosion_13: 879391356
+      Samurai_Explosion_14: 464331308
+      Samurai_Explosion_15: -1056852121
+      Samurai_Explosion_16: 961610873
+      Samurai_Explosion_17: -1152031409
+      Samurai_Explosion_18: 57474306
+      Samurai_Explosion_19: -2141619554
+      Samurai_Explosion_2: -1466228588
+      Samurai_Explosion_20: -917564725
+      Samurai_Explosion_21: -1948918411
+      Samurai_Explosion_22: 1420260590
+      Samurai_Explosion_23: 982986764
+      Samurai_Explosion_24: 823743406
+      Samurai_Explosion_25: -1097871380
+      Samurai_Explosion_26: 2100443647
+      Samurai_Explosion_27: 103623626
+      Samurai_Explosion_28: 1294434609
+      Samurai_Explosion_3: 99792197
+      Samurai_Explosion_4: 672595656
+      Samurai_Explosion_5: 2122749033
+      Samurai_Explosion_6: -959585337
+      Samurai_Explosion_7: -1808802167
+      Samurai_Explosion_8: -1298013336
+      Samurai_Explosion_9: -1056606250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

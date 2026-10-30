@@ -1,0 +1,68 @@
+﻿Typeblade Changes
+Gerrycho Morales
+Individual 2D Project
+CS583
+
+
+Core idea stayed the same: 
+You defeat a boss by typing the words in its attacks, which reflects them back at it. Light, heavy, and phrase attacks still deal 1, 3, and 5 damage. The phrase still gives a warning before it fires, and the blade meter still fills +5% / +15% / +25% and spawns "unleash" for 20 damage. 
+
+
+Gameplay Changes:
+* Layout: the design had the boss at the top and the player at the bottom. I decided with a side view where the samurai is on the left, boss/tengu on the right, with words flying across in three lanes. (Easier to implement with the art I found online)
+* Boss HP: 100 -> 50, since the second phase refills his health (see below). 
+* Second phase: the design said it starts at half health with more frequent attacks. new:
+* starts at 20% HP, the first form can't die before transforming
+* the crow tengu transforms into its true form (a masked daitengu) with a cutscene: slow motion, flicker, white flash, "TRUE FORM" banner, and a taunt line
+* his HP goes back to full, attacks come faster (2.5s -> 1.8s) and words move 25% faster
+* words also dive from the top of the screen, straight down or diagonally
+* Word lists: instead of picking by length only, the words are themed around the story (tengu, crows, ink, poetry, the red moon). A shuffle bag makes sure every word shows up once before any repeats.
+* Same-letter problem (from my Challenges section): I ended up doing both ideas:
+* game avoids spawning a word whose first letter is already on screen
+* typing locks onto the closest matching word.
+* Phrase warning: the boss glows, a "!!!" blinks, and a crow caw plays (a demon growl in phase two with a pity timer so a phrase is guaranteed at least every 20 seconds.
+* Unleash: added a cutscene: the world freezes, the screen dims, the camera zooms in on the samurai, and the hit lands as a 4-hit burst instead of one hit.
+* Menus: it can now be typed or clicked (type "start",  "options", "retry", etc.), so you never have to leave the keyboard.
+* Settings: the music/sfx sliders also work from the pause menu, not just the title screen.
+
+
+Added features (not in the design):
+* Intro cutscene: fade in, title card, the samurai runs in, the tengu speaks with a typewriter effect, and you type "you" to answer him and start the fight.
+* Grades: results screen gives an S/A/B/C/F grade in a hanko-style seal, based on accuracy, WPM, and max combo. Losing caps the grade at B.
+* High score: best score/best grade are saved and shown on the title screen.
+* Results quotes: a haiku when you win, a tengu taunt when you lose.
+* Combo counter: pops on each word from x3 and changes color at 10 and 25.
+* Low HP warning: a red vignette that pulses like a heartbeat, faster as HP drops.
+* features: camera shake on hits, falling petals, a wind slash that carries reflected words, hit flashes, and the moon changing color between phases and fading on victory.
+* Talking voice: Undertale-style blips when the tengu speaks.
+
+
+Art Changes:
+- Attacks are styled text instead of three projectile shapes. Reflected words are carried
+  by a wind slash effect, and the Unleash has its own impact burst.
+- The boss has two full forms (crow and masked true form), each with idle, attack, hurt,
+  and death animations. The player has idle, run, parry, unleash, and death animations.
+- The HUD shows HP bars, the blade meter, and the combo. Score and accuracy moved to the
+  results screen so the fight screen stays clean.
+
+
+Audio Changes:
+- Removed: a sound on every correct letter, tried a few and got annoying fast, so a wrong letter has an error beep and a finished word plays the parry clang.
+- Removed: menu click sounds and a sound for the blade meter filling.
+- Changed: the "scream when reaching phase two" became an impact plus a demonic laugh.
+- Added: crow caw / demon growl phrase warnings, countdown knocks plus a gong on FIGHT!, a layered Unleash sequence (windup ring, drum boom, sword spin, unsheathe, slash), a boss death screech, a player death grunt, and bamboo flute stings for victory and defeat. The fight music fades out when someone dies so the ending sound stands out.
+- Music: a calm track on the title screen and a battle track that starts on FIGHT!, kept low so the sound effects are clear.
+
+
+Stretch Goals not completed:
+- Upgrades, powerups, and difficulty levels (listed under Scope creep). I focused on
+  making the one-boss version polished instead.
+
+
+AI Usage:
+- Code: Claude helped me write the majority of the C# scripts based on my design and requests. I tested them, and asked for fixes when things broke or didn’t go the way I wanted. It also explained how the code works when I asked (shuffle bags, coroutines, state machines, Unity events, etc.).
+- Unity setup: step-by-step help with the Animator, sprite slicing and pivots, UI layout,
+  TextMeshPro, scene setup, the build, and version control.
+- Debugging: I described or screenshotted bugs and it helped find the cause.
+- Audio: it trimmed and leveled the sound files I picked, and generated a few simple
+  sounds (wind swish, drum boom, Unleash slash, countdown knock, talking blips).

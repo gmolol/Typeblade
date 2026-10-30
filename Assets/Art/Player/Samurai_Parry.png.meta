@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: dd66c4f77050b7e4da0dd9494494c28e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4384045353957433685
+    second: BossAction-Parry-Sheet_0
+  - first:
+      213: -6302127444593816857
+    second: BossAction-Parry-Sheet_1
+  - first:
+      213: -5503704281884293987
+    second: BossAction-Parry-Sheet_2
+  - first:
+      213: -4032581229781592370
+    second: BossAction-Parry-Sheet_3
+  - first:
+      213: -5103017168436990977
+    second: BossAction-Parry-Sheet_4
+  - first:
+      213: -5893963035061374065
+    second: BossAction-Parry-Sheet_5
+  - first:
+      213: 2503158103254193743
+    second: BossAction-Parry-Sheet_6
+  - first:
+      213: 9151141571121030116
+    second: BossAction-Parry-Sheet_7
+  - first:
+      213: 509885236058199478
+    second: BossAction-Parry-Sheet_8
+  - first:
+      213: -4501889175897781437
+    second: BossAction-Parry-Sheet_9
+  - first:
+      213: 8791670197093256762
+    second: BossAction-Parry-Sheet_10
+  - first:
+      213: -3180320249071877970
+    second: BossAction-Parry-Sheet_11
+  - first:
+      213: 2176254713773139177
+    second: BossAction-Parry-Sheet_12
+  - first:
+      213: 1615973640568152485
+    second: BossAction-Parry-Sheet_13
+  - first:
+      213: -6263591035134972900
+    second: BossAction-Parry-Sheet_14
+  - first:
+      213: 6171619137344550212
+    second: BossAction-Parry-Sheet_15
+  - first:
+      213: 7413057373152900817
+    second: BossAction-Parry-Sheet_16
+  - first:
+      213: 518196623586487484
+    second: BossAction-Parry-Sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Samurai_Parry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26c7ce462550c44ea0c5802f99efda3
+      internalID: -1567331972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ce5d5d16fd99d4ca83ea44979306b1
+      internalID: -1680649036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867cb619680d94441ba02f62b69a1877
+      internalID: -976316176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409af2e82200e3478183c9371b564b5
+      internalID: 1336446740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4a68cf025c7f8488b5092bd465bada
+      internalID: -1268943256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_5
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af6c39e57e8ca45970808a3681df68
+      internalID: 1025388196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_6
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e6f2d4e52b3047bc5cf7649a156eb
+      internalID: -260774523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efcb988045cbff4b9b3a14a77ad4ac5
+      internalID: 1467538423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_8
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4392d39fd880d04999489a6de479435
+      internalID: 909794673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_9
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f95425c06e757439695c2ae4222a83
+      internalID: 181776183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_10
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cd789b2cb2d3c4596e4d0264ccaae3
+      internalID: -1107029760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_11
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe1e642cd08a04ab81c257232b8826
+      internalID: -1756369180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_12
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee736f316d4e6429cd6399a6f833a1
+      internalID: 720831107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_13
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b83f44b0251684eb94972114c15daa
+      internalID: 644304941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_14
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cbcdc9f6cb5a249b461e9017c71608
+      internalID: -448754822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_15
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a951adb2cfba844806d7732eaed70d
+      internalID: -1174896176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_16
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de75e53f6895924b96cac012b2e9904
+      internalID: -2104061374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samurai_Parry_17
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 0
+        width: 203
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e884d6ab2e5a3c43a628a680b08c50e
+      internalID: -256988953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e7fb8f1ea6ad264a9c2c7c2da917573
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":203.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Samurai_Parry_0: -1567331972
+      Samurai_Parry_1: -1680649036
+      Samurai_Parry_10: -1107029760
+      Samurai_Parry_11: -1756369180
+      Samurai_Parry_12: 720831107
+      Samurai_Parry_13: 644304941
+      Samurai_Parry_14: -448754822
+      Samurai_Parry_15: -1174896176
+      Samurai_Parry_16: -2104061374
+      Samurai_Parry_17: -256988953
+      Samurai_Parry_2: -976316176
+      Samurai_Parry_3: 1336446740
+      Samurai_Parry_4: -1268943256
+      Samurai_Parry_5: 1025388196
+      Samurai_Parry_6: -260774523
+      Samurai_Parry_7: 1467538423
+      Samurai_Parry_8: 909794673
+      Samurai_Parry_9: 181776183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
